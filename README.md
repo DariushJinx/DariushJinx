@@ -66,6 +66,12 @@
 </div>
 
 <div>
+  <h2>🕓 &nbsp; API`s :</h2>
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
+
+<div>
   <h2>🕓 &nbsp; Version Control :</h2>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
