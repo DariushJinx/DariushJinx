@@ -21,19 +21,17 @@
   "username" : "DariushJinx",
   "gender" : "male",
   "aboutMe": "I'm Node.js Developer"
-  "stach" : "Backend Developer",
+  "stach" : "FullStack Developer",
   "language": ["javaScript", "typeScript","Node.js"]
   "myStack": {             
         "BackEnd": {             
           "frameworks": ["Express.js", "Familiar with fastify"],                   
           "microServiceTools": ["RabbitMQ"],
-          "realTimeTools": ["socket.io", "webSocket"],
-          "DataBases": ["MongoDB"],
+          "DataBases": ["MongoDB", "PostgreSQL", "MySQL"],
           "API": ["postman", "swagger"],
           
         },     
-  "familiar with" : "FrontEnd",
-  "currentFocus": "Node.js Web Development",     
+  "currentFocus": "Node.js Web Development(NestJS)",     
    "funFact": "Bug's and Errors are my best friends" 
 }
 ```
