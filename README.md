@@ -18,20 +18,20 @@
  {
   "first_name" : "Dariush",
   "last_name" : "Khazaei",
-  "username" : "DariushJinx",
   "gender" : "male",
-  "aboutMe": "I'm Node.js Developer"
+  "aboutMe": "I'm FullStack Developer"
   "stach" : "FullStack Developer",
-  "language": ["javaScript", "typeScript","Node.js"]
+  "language": ["JavaScript", "DotNet"]
   "myStack": {             
         "BackEnd": {             
-          "frameworks": ["Express.js", "Familiar with fastify"],                   
+          "frameworks/libraries": ["NodeJs", "ExpressJs", "NestJs", "TypeScript", "Familiar with Fastify", ...],                   
           "microServiceTools": ["RabbitMQ"],
           "DataBases": ["MongoDB", "PostgreSQL", "MySQL"],
-          "API": ["postman", "swagger"],
-          
-        },     
-  "currentFocus": "Node.js Web Development(NestJS)",     
+          "API": ["Postman", "Swagger"],
+        },
+        "FontEnd": {             
+          "frameworks/libraries": ["ReactJs", "NextJs", "TypeScript", "Recharts", ...]
+        },    
    "funFact": "Bug's and Errors are my best friends" 
 }
 ```
